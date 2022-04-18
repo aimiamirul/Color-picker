@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@900&display=swap');
+
+
+body {
+    text-align: center;
+    background-image: url("https://images.unsplash.com/photo-1543857778-c4a1a3e0b2eb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8YWxsJTIwY29sb3J8ZW58MHx8MHx8&auto=format&fit=crop&w=700&q=60");
+}
+h4 {
+    font-size: 70px;
+    font-weight: bold;
+    color: white;
+    text-shadow: 2px 2px 8px black;
+    margin-bottom: 1px;
+}
+button {
+    font-size: 20px;
+    margin: 1px;
+    padding: 7px;
+    color: white;
+    width: 150px;
+    background: black;
+    border-radius: 5px;
+    border: none;
+}
+h2 {
+    font-family: 'Inconsolata', monospace;
+    color: black;
+    font-size: 25px;
+    text-shadow: 2px 2px 8px black;
+}
+.nav-links {
+    font-size: 20px;
+    font-family: 'Inconsolata', monospace;
+    font-weight: bold;
+}
+a {
+    margin-top: 15px;
+    color: black;
+}
+a:hover {
+    color: aliceblue;
+}
+ul {
+    margin-top: 5px;
+}
